@@ -11,6 +11,6 @@
         echo '<h1 style="color: orange; text-align: center;">Xin chao</h1>';
         echo '<img style="width: 500px; height: 500px;" src="smile.png" alt="">';
     ?>
-    <p>Xin chao TranThiLy</p>
+    <p>Xin chao TranThiLy </p>
 </body>
 </html>
